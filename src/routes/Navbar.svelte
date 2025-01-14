@@ -62,7 +62,7 @@
             <!-- Github -->
             <a
                 class="btn btn-ghost hover:bg-transparent hover:text-primary"
-                href="https://github.com/Jesus-Cries/paletti"
+                href="https://github.com/leon-obrm/paletti"
                 target="_blank"
                 rel="noopener noreferrer"
             >
@@ -113,7 +113,7 @@
             <!-- Github -->
             <li>
                 <a
-                    href="https://github.com/Jesus-Cries/paletti"
+                    href="https://github.com/leon-obrm/paletti"
                     target="_blank"
                     rel="noopener noreferrer"
                 >
